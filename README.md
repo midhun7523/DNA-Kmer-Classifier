@@ -13,12 +13,19 @@ DNA-Kmer-Classifier/
 
 │
 ├── data/
+
 │   ├── promoters.data
+
 │   └── promoter_sequences_clean.csv
+
 │
+
 ├── notebooks/
+
 │   └── 01_dataset_exploration.ipynb
+
 │
+
 ├── src/
 │   └── kmer_features.py
 │
