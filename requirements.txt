@@ -1,1 +1,8 @@
+Simple yet complicated -
 
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+joblib
